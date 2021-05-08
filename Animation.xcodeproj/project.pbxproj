@@ -193,6 +193,10 @@
 				814ADAFE248EB5E300F80486 /* StaticSketch.swift */,
 				814ADAFC248EB56900F80486 /* EmptySketch.swift */,
 				819F9E6D26415FDC00C7883F /* LindenmayerSystemSketch.swift */,
+				577C9AD726462736001E7C94 /* Visualizer.swift */,
+				577C9AD926462736001E7C94 /* Successor.swift */,
+				577C9AD826462736001E7C94 /* Predecessor.swift */,
+				577C9AD626462736001E7C94 /* LindenmayerSystem.swift */,
 			);
 			path = Animation;
 			sourceTree = "<group>";
@@ -223,10 +227,6 @@
 		814ADAE6248D509900F80486 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				577C9AD626462736001E7C94 /* LindenmayerSystem.swift */,
-				577C9AD826462736001E7C94 /* Predecessor.swift */,
-				577C9AD926462736001E7C94 /* Successor.swift */,
-				577C9AD726462736001E7C94 /* Visualizer.swift */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
